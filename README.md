@@ -5,7 +5,7 @@
 - I like programing and designing and developing servers Counter-Strike 1.6 (PAWN) , JailBreak Mod - BaseBuilder Mod .
 - My favorite language programming : JavaScript - HTML - CSS - JAVA - Python .
 
-## 💯 My Server :
+## 💯 My Server [![Discord](https://discordapp.com/api/guilds/462966890801790998/widget.png)](https://discord.gg/hsrtdRj):
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/676394809623183370/715533097390571520/unknown.png" alt="commands">
 </div>
